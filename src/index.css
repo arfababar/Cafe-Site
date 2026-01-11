@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+/* Reset unwanted browser styles */
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Optional: make body neutral */
+body {
+  margin: 0;
+  background-color: #FFF7F3;
+}
+html {
+  scroll-behavior: smooth;
+}
